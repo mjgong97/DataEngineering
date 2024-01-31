@@ -1,0 +1,22 @@
+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
+
+https://github.com/mjgong97/DataEngineering.git
+
+
+
+git status  : git 상태 체크
+
+
+git stage에 올리는 거 
+git add testfile.txt
+
+git stage에 올린 거 취소 
+git restore --staged <file>
+
+
+git commit (-m "" : 메세지 남김)
+git commit -m "testfile commit"
+
+git push origin  : git origin에 배포 
+
+
